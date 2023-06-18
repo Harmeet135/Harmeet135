@@ -3,6 +3,11 @@
   <img src ="./github--banner.png" />
   
 </div>
+
+
+
+ <br/>
+
 ## 👨🏻‍💻 About Me:
 
 <img align = "right" alt="coding" height="290px" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" >
@@ -10,9 +15,11 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `Competitive Programming`
 
+- 👯 I’m looking to collaborate for `Dev Projects`
 
+- ⚡ Fun fact: I waste most of my time playing games
 
 
 
