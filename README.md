@@ -1,34 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harmeet Singh</h1>
-<div align="center">
-  <img src ="./github--banner.png" />
-  
-</div>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-
-
- <br/>
-
-## 👨🏻‍💻 About Me:
-
-<img align = "right" alt="coding" height="290px" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" >
-- 🙋‍♂️ All about me is at [Harmeet.tk](Harmeet.tk)
 - 👨‍💻 All of my projects are available at [Harmeet.tk](Harmeet.tk)
 
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `Competitive Programming`
-
-- 👯 I’m looking to collaborate for `Dev Projects`
-
-- ⚡ Fun fact: I waste most of my time playing games
-
-
-
-
 <h3 align="left">Connect with me:</h3>
+
+<img align = "right" alt="coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" >
+
 <p align="left">
-<a href="https://linkedin.com/in/harmeetsingh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harmeetsingh4" height="30" width="40" /></a>
-<a href="https://instagram.com/harmeet135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harmeet135" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
