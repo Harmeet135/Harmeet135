@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [Harmeet.tk](Harmeet.tk)
+<img align = "right" alt="coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
