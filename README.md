@@ -1,6 +1,10 @@
 ![logo](https://github.com/Harmeet135/github-banner/blob/main/github--banner.png)
 
 <h1 align="center">Hi 👋, I'm Harmeet Singh</h1>
+<div align="center">
+  <img src ="./github--banner.png" />
+  
+</div>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt="coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" >
 
