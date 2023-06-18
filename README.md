@@ -11,8 +11,7 @@
 ## 👨🏻‍💻 About Me:
 
 <img align = "right" alt="coding" height="290px" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" >
-- 🙋‍♂️ All about me is at **[My Website](https://harmeet.tk/)**
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+- 🙋‍♂️ All about me is at [Harmeet.tk](Harmeet.tk)
 
 - 🔭 I’m currently working on `Something Intresting`.
 
