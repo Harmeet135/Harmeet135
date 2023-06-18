@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harmeet Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  <img src ="./github--banner.png" />
+  
+</div>
+
+
+
+ <br/>
 
 - 👨‍💻 All of my projects are available at [Harmeet.tk](Harmeet.tk)
 
