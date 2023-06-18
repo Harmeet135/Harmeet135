@@ -3,9 +3,19 @@
   <img src ="./github--banner.png" />
   
 </div>
-<img align = "right" alt="coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" >
+## 👨🏻‍💻 About Me:
 
-- 👨‍💻 All of my projects are available at [Harmeet.tk](Harmeet.tk)
+<img align = "right" alt="coding" height="290px" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" >
+- 🙋‍♂️ All about me is at **[My Website](https://harmeet.tk/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `MERN Stack`
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
