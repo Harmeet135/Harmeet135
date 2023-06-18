@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harmeet Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt="coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" >
+
 - 👨‍💻 All of my projects are available at [Harmeet.tk](Harmeet.tk)
 
 <h3 align="left">Connect with me:</h3>
