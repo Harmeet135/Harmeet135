@@ -14,11 +14,11 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://harmeet.tk/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `MySql , Vue , php`.
 
 - 🌱 I’m currently learning `Competitive Programming`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `Full Stack Projects`
 
 - ⚡ Fun fact: I waste most of my time playing games
 
