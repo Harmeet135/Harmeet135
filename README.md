@@ -14,9 +14,9 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://harmeet.tk/)**
 
-- 🔭 I’m currently working on `MySql , Vue , php`.
+- 🔭 I’m currently working on `personal project`.
 
-- 🌱 I’m currently learning `Competitive Programming`
+- 🌱 I’m currently learning `MySql , Vue , php`
 
 - 👯 I’m looking to collaborate for `Full Stack Projects`
 
