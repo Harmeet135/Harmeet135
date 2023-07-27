@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on `something interesting`.
 
-- 🌱 I’m currently Practising `DSA (https://leetcode.com/harmeetchahal9891/)`
+- 🌱 I’m currently Practising **[DSA](https://harmeet.tk/)**
 
 - 👯 I’m looking to collaborate for `Full Stack Projects`
 
