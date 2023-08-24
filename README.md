@@ -12,7 +12,7 @@
 
 <img align = "right" alt="coding" height="290px" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" >
 
-- 🙋‍♂️ All about me is at **[My Website](https://www.harmeet.tk/)**
+- 🙋‍♂️ All about me is at **[My Website](https://harmeet.tk/)**
 
 - 🔭 I’m currently working on `something interesting`.
 
