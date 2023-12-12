@@ -10,7 +10,7 @@
 
 ## Welcome to my GitHub profile!
 
-<img align = "right" alt="coding" height="290px" src="" >
+<img align = "right" alt="coding" height="290px" src ="./coding.gif" >
 
 ## 👨🏻‍💻 I have || am
   
