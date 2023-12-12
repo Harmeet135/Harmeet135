@@ -10,12 +10,13 @@
 
 ## Welcome to my GitHub profile!
 
-<img align = "right" alt="coding" height="290px" src ="./coding.gif" >
+
 
 ## 👨🏻‍💻 I have || am
-  
-- Skilled in building web applications using React, Next.js, Django, NodeJs , and Express.
-- Proficient in C, C++ , Python, JavaScript, and TypeScript .
+<img align="right" alt="coding" height="150px" src="./coding.gif">
+
+- Skilled in building web applications using React, Next.js, Django, NodeJs, and Express.
+- Proficient in C, C++, Python, JavaScript, and TypeScript.
 - Strong understanding of data structures, algorithms, and object-oriented programming.
 - Experienced in version control systems such as Git and GitHub.
 
