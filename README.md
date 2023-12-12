@@ -12,7 +12,7 @@
 
 
 
-## 👨🏻‍💻 I have || am
+##  I have || am
 <img align="right" alt="coding" height="150px" src="./coding.gif">
 
 - Skilled in building web applications using React, Next.js, Django, NodeJs, and Express.
