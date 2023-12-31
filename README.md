@@ -25,6 +25,7 @@
 Here are some of the projects I have worked on:
 
 - [Portfolio](https://harmeet.tk/): My portfolio website build using React and Vite.
+- [Cypress](https://github.com/Harmeet135/cypress): Cypress is a collaboration platform, enabling real-time, simultaneous document editing and project management for teams.
 - [Socials](https://github.com/Harmeet135/Socials): A instagram like web app with Authentication biuld using React , NodeJS , ExpressJS , MongoDD and Firebase .
 - [HyperSlice](https://github.com/Harmeet135/link_shortener): A Link Shortner Web app build using VueJS , NodeJS and MySql.
 - [Strip Color Detection](https://github.com/Harmeet135/Strip-Color-Detection):A strip color detection web app  to help patients detect any anomility build using Python , Django and OpenCv
