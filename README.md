@@ -16,7 +16,7 @@
 ## Creation 👨‍💻
 
 
-### <img src="https://itsvg.in/favicon.ico" width="16px" />  Portfolio 
+### Portfolio 
 [Harmeet Singh - Portfolio](https://www.harmeet.tech/) ,
 </> and Crafted with 💛 by harmeet Singh
 
