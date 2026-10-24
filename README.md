@@ -19,7 +19,7 @@
 
 
 ### Portfolio 
-[Harmeet Singh - Portfolio](https://www.harmeet.tech/) ,
+[Harmeet Singh - Portfolio](https://harmeet-portfolio-psi.vercel.app/) ,
 </> and Crafted with 💛 by harmeet Singh
 
 ### Cypress : Collaboration Web App
